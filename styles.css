@@ -1,0 +1,14 @@
+#container {
+    display: grid;
+    width: 960px;
+    height: 960px;
+    border: 1px solid black;
+}
+
+.grid-item {
+    border: 1px solid lightgray;
+}
+
+button {
+    margin-top: 10px;
+}
